@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d42174d6e9f6b1fa17aaf4b57e90ecf3",
+    "revision": "13d4c2e3c15a01a4034a37412298eded",
     "url": "/RealTimeChat/index.html"
   },
   {
-    "revision": "03eba6d5ca11458738c3",
+    "revision": "68d19731e98e1888d20d",
     "url": "/RealTimeChat/static/css/main.44c125b5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RealTimeChat/static/js/2.2c0b69a6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03eba6d5ca11458738c3",
-    "url": "/RealTimeChat/static/js/main.e05fd0ed.chunk.js"
+    "revision": "68d19731e98e1888d20d",
+    "url": "/RealTimeChat/static/js/main.cca89a35.chunk.js"
   },
   {
     "revision": "42750ee464260b8e67e4",
